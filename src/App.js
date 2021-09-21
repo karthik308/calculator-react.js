@@ -1,4 +1,4 @@
-
+/* eslint-disable no-eval */ 
 import React,{useState} from "react";
 import './App.css';
 const App=()=>{
